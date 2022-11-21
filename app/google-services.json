@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "680691678241",
+    "project_id": "arkagram-d639d",
+    "storage_bucket": "arkagram-d639d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680691678241:android:211d9b9727cd2a51a2b760",
+        "android_client_info": {
+          "package_name": "com.karamlyy.arkagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680691678241-990hbm71cj0nshphl2skqsjf7o3qll75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-2oM2fdGy_IVng0oMoAdaQAeOCRDArJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680691678241-990hbm71cj0nshphl2skqsjf7o3qll75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
